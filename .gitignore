@@ -1,0 +1,21 @@
+# EXE 文件（超过 GitHub 50MB 限制，需单独发布）
+dist/*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.spec
+build/
